@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://raw.githubusercontent.com/vxsahu/vibe-seo/a1083ead956ca99e245ece0bd1e382c48f370f08/seo-vibe.png" />
+<img width="1200" height="475" alt="Vibe SEO" src="https://raw.githubusercontent.com/vxsahu/vibe-seo/a1083ead956ca99e245ece0bd1e382c48f370f08/seo-vibe.png" />
 </div>
 
 # VIBE SEO
