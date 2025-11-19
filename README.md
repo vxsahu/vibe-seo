@@ -1,10 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://raw.githubusercontent.com/vxsahu/vibe-seo/a1083ead956ca99e245ece0bd1e382c48f370f08/seo-vibe.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# VIBE SEO
+Instant, AI-powered SEO metadata generator using Google Search grounding to analyze live SERP data.
 
-This contains everything you need to run your app locally.
+## Rank #1 Faster.
+Enter your topic. We'll analyze Google results and generate a complete Content Strategy: titles, outline, intro, and tags.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1SowItUEHw3_xcx3fa_V_eTRJkqasr-z2
 
